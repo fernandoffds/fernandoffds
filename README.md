@@ -1,10 +1,10 @@
-- 👋 Oi, eu sou o Fernando Fernandes Da Silva
-- 👀 Eu estou em interrasado me tornar um programador Full Stack
-- 🌱 I’m currently learning ...
+- 👋 Hi, i am  Fernando Fernandes Da Silva
+- 👀 I'm interested in becoming a Full Stack Programmer
+- 🌱 I'm learning Front-end
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me (21)984509601 or https://www.linkedin.com/in/fernando-fernandes-programador/
+- 
+- 
 
 <!---
 fernandoffds/fernandoffds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
